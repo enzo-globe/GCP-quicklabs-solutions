@@ -2,13 +2,10 @@
 ### Export all the values carefully
 
 ```
-export INSTANCE_NAME=
-
-export ZONE=
-
-export PORT=
-
-export FIREWALL_NAME=
+export INSTANCE_NAME=nucleus-jumphost-326
+export ZONE=us-west4-b
+export PORT=8082
+export FIREWALL_NAME=grant-tcp-rule-762
 ```
 
 ### NOW JUST COPY THE CODE AND PASTE ON YOUR CLOUD SHELL
