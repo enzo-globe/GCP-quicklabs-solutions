@@ -14,7 +14,7 @@ export FIREWALL_NAME=
 ### NOW JUST COPY THE CODE AND PASTE ON YOUR CLOUD SHELL
 
 ```
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Implement%20Load%20Balancing%20on%20Compute%20Engine%20Challenge%20Lab/quicklabgsp313.sh
-sudo chmod +x quicklabgsp313.sh
-./quicklabgsp313.sh
+curl -LO raw.githubusercontent.com/enzo-globe/GCP-quicklabs-solutions/main/quicklab01.sh
+sudo chmod +x quicklab01.sh
+./quicklab01.sh
 ```
